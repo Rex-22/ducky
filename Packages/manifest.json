@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.kandreyc.unity-csharp-patch": "https://github.com/kandreyc/unity-csharp-patch.git#v1.4.0",
     "com.unity.2d.animation": "11.0.0",
     "com.unity.2d.aseprite": "1.2.5",
     "com.unity.2d.psdimporter": "10.1.1",
